@@ -6,8 +6,9 @@
 # Overview
 This program is designed to automate the scheduling of doctors in your department based on various constraints. It utilizes linear programming and integrates with Google Sheets for easy manipulation of scheduling parameters by end-users without any coding knowledge.
 
-## Program Overview (How end-user without coding skill tell the program how to make an appropriate schedule)
-# Doctor Scheduling Program
+## Program Overview 
+
+How end-user without coding skill tell the program how to make an appropriate schedule
 
 This program is designed to automate the scheduling of doctors in your department based on various constraints. It utilizes linear programming and integrates with Google Sheets for easy manipulation of scheduling parameters by end-users without any coding knowledge.
 
