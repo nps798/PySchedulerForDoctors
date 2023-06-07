@@ -3,7 +3,7 @@
 # Overview
 📅 This program is designed to automate the scheduling of doctors in your department based on various constraints. It utilizes linear programming and integrates with Google Sheets for easy manipulation of scheduling parameters by end-users without any coding knowledge.
 
-![Doctor Schedule]([/path/to/image.png](https://raw.githubusercontent.com/nps798/PySchedulerForDoctors/main/demo/demoImage2.png)) 
+![Doctor Schedule](https://raw.githubusercontent.com/nps798/PySchedulerForDoctors/main/demo/demoImage2.png)
 
 ## Program Overview 
 
