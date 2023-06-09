@@ -23,7 +23,7 @@ This sheet defines the daily schedule for each task. Users need to mark whether 
 
 This sheet defines recurring activities that happen on a weekly basis, such as a doctor's regular outpatient clinic. These activities are fixed and do not require scheduling. They serve as constraints when scheduling other tasks to ensure doctors' fixed activities are not overlapped.
 
-### Sheet 4: Exclusive Task Pairings
+### Sheet 4: Preventing same person for two conficting tasks
 
 In this sheet, you define which two tasks cannot be assigned to the same person simultaneously. This prevents the linear programming algorithm from scheduling the same person for two conflicting tasks.
 
