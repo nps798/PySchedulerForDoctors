@@ -31,7 +31,7 @@ In this sheet, you define which two tasks cannot be assigned to the same person 
 
 This sheet defines constraints where certain tasks should not be scheduled for a doctor on the following day. For example, if Doctor A is scheduled for a particular task today, Doctor B should not be scheduled for a specific task tomorrow.
 
-### Sheet 6: Desired Task Frequency
+### Sheet 6: Desired Assigned Tasks Count (of a person)
 
 In this sheet, you specify the desired number of times each doctor should be assigned to a specific task within the given month. This helps achieve a balanced distribution of tasks among doctors and prevents workload imbalances.
 
